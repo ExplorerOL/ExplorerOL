@@ -4,4 +4,7 @@
 ### My skills
 <p align="left">
 Linux Python JS
+
+<img align="center" src="./icons/python.svg" alt="Python" height="40" width="40" />
+
 </p>
